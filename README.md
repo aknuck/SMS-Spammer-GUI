@@ -60,4 +60,4 @@ supported carriers:
 
 
 
-- Note: This program is for educational purposes only and I do not take responsibility for what you do with it.
+Note: This program is for educational purposes only and I do not take responsibility for what you do with it.
